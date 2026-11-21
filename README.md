@@ -2,7 +2,7 @@
 
 # 👋 Pham Cong Hoang
 
-**Combinatorial optimization · Machine learning**
+**Machine Learning · Optimization · Bioinformatics**
 
 [🌐 Portfolio](https://hoangpc.io.vn) · [📚 Publications](https://scholar.google.com/citations?user=1bhq8NgAAAAJ) · [📄 CV](https://hoangpc.io.vn/Pham_Cong_Hoang_CV.pdf) · [✉️ Email](mailto:job.hoangphamcong@gmail.com)
 
