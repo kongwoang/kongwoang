@@ -2,14 +2,16 @@
 
 # 👋 Pham Cong Hoang
 
-**Machine Learning · Optimization · Bioinformatics**
+**Combinatorial Optimization & Autonomous Driving · Multimodal Learning · Bioinformatics & AI for Healthcare**
 
-[🌐 Portfolio](https://hoangpc.io.vn) · [📚 Publications](https://scholar.google.com/citations?user=1bhq8NgAAAAJ) · [📄 CV](https://hoangpc.io.vn/Pham_Cong_Hoang_CV.pdf) · [✉️ Email](mailto:job.hoangphamcong@gmail.com)
+[🌐 Portfolio](https://hoangpc.io.vn) · [📚 Google Scholar](https://scholar.google.com/citations?user=1bhq8NgAAAAJ) · [ORCID](https://orcid.org/0009-0009-4655-562X) · [📄 CV](https://hoangpc.io.vn/Pham_Cong_Hoang_CV.pdf) · [✉️ Email](mailto:job.hoangphamcong@gmail.com)
 
 </div>
 
-I study Data Science and Artificial Intelligence at Hanoi University of Science and Technology. At the Computational Intelligence Optimization Lab, I work on routing and scheduling with mathematical programming and heuristic search. I’m also interested in how models make decisions with incomplete information.
+Undergraduate researcher in Data Science and Artificial Intelligence at Hanoi University of Science and Technology. My research focuses on combinatorial optimization, particularly evolutionary and metaheuristic algorithms and their integration with machine learning.
+
+I also conduct research on drug response prediction and virtual screening as a Research Assistant at Victoria University of Wellington.
 
 ## 🎓 Research opportunities
 
-I’m looking for research assistant positions and M.Sc. opportunities starting in **summer 2027**. If your group works on optimization or machine learning, I’d be glad to hear about the problems you’re tackling. [Get in touch](mailto:job.hoangphamcong@gmail.com).
+I am seeking Research Assistant and M.Sc. opportunities starting in **summer 2027**, with interests spanning machine learning, optimization, and bioinformatics. [Get in touch](mailto:job.hoangphamcong@gmail.com).
